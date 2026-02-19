@@ -58,4 +58,4 @@ GitHub repository with structure and files
 │   └── Filter_Testing.docx, Export_Validation.pdf
 ├── 📁 7.Documentation/
 │   └── Project_PPT.pptx, Final_Demo_Video.mp4
-└── README.md
+└── README.md.
